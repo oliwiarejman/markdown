@@ -1,4 +1,5 @@
 # Nagłówek
+https://github.com/oliwiarejman
 
 Paragraf 1, 
 ~~przekreślenie~~
@@ -28,4 +29,9 @@ if a==1:
 Tutaj jest `print("kodzik")` w tekscie
 
 ![LIKE](https://thicc.mywaifulist.moe/waifus/7989/745e887504f9ca9bcfded199e95dad6d08095d9eef6adacebf5df5bd42c19c8c_thumb.png)
+
+|kolumna 1|kolumna 2|kolumna 3|
+|:---:|:---:|:---:|
+|element 1|element 2|element 3|
+|element 1|element 2|element 3|
 
